@@ -9,7 +9,7 @@ The Resources used included:
 
 ## #1 Overview of the Project:
 
-The purpose of this analsis was to build an HTML page that allows uses to find information for the city, state, country, shape, and date through the table filters that were created using JavaScript and HTML. 
+The purpose of this analysis was to build an HTML page that allows uses to find information for the city, state, country, shape, and date through the table filters that were created using JavaScript and HTML. 
 <img width="1179" alt="Screen Shot 2022-05-10 at 12 37 23 PM" src="https://user-images.githubusercontent.com/93094173/167679370-146c97cd-1006-4411-9bb0-a27bee20eedf.png">
 
 <img width="1189" alt="Screen Shot 2022-05-10 at 12 37 29 PM" src="https://user-images.githubusercontent.com/93094173/167679380-e055e684-50c2-4876-8200-58c7fd0638b5.png">
